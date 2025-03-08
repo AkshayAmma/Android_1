@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme using Material Components -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Customize dialog appearance with Material Components theme -->
+    <style name="CustomDialogTheme" parent="Theme.MaterialComponents.DayNight.Dialog.Alert">
+        <!-- You can further customize the dialog appearance here -->
+    </style>
+
+</resources>
